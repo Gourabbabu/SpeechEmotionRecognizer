@@ -1,4 +1,4 @@
-# 🎙️ Speech Emotion Recognizer
+# 🎙️Basic Speech Emotion Recognizer
 
 A simple GUI-based Python app that records your voice and detects emotions using a trained deep learning model (using MFCC features and a TensorFlow model).
 
